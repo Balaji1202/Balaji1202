@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm Balaji, a software developer focused on frontend currently working at Zoho. I have a strong skillset in JavaScript and Vue, and I am familiar with React, TypeScript, testing, and web developer tools. I am passionate about designing and building applications considering various factors of accessiblity, performance, optimization and have expertise in collaborating with various stakeholders to understand the business requirements and convert them into effective applications.
+I'm Balaji, an engineer at Atomicwork, previously at Zoho. I have a strong skillset in Frontend primarly in Typescript, React, Next, Vue, and I am familiar with testing, and web developer tools. I am passionate about designing and building applications considering various factors of accessiblity, performance, optimization and have expertise in collaborating with various stakeholders to understand the business requirements and convert them into effective applications.
 
 In addition to my technical skills, I am an occasional reader, enjoy learning new languages, speaking on stages, and writing blogs.
 
@@ -11,6 +11,8 @@ In addition to my technical skills, I am an occasional reader, enjoy learning ne
 ## My Interests
 
 - 🚀 Frontend Development
+- 🔐 Auth
+- 🗄️ API & Backend development
 - 📖 Reading Books
 - 🌐 Learning New Languages
 - 🎤 Speaking on Stages
