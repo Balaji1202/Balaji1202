@@ -104,8 +104,10 @@ In addition to development and design skills, I am also experienced in writing a
 </br>
 
 ## Experience
- - Zoho - Member Technical Staff - Frontend engineer (2020 - Current)
-  I am currently working as a Software Developer at Zoho, where I have been working on multiple projects, primarily focused on frontend development. In this role, I have collaborated with various stakeholders to understand user requirements and deliver functional and intuitive applications.
+ - Atomicwork - Software Engineer II (2023 - Currrent)
+   Working as a Frontend engineer across entire product, focusing on delivering fast paced development in a startup.
+ - Zoho - Member Technical Staff - Frontend engineer (2020 - 2023)
+  Worked as a software developer, where I have been working on multiple projects, primarily focused on frontend development. In this role, I have collaborated with various stakeholders to understand user requirements and deliver functional and intuitive applications.
  - Zoho - Project Trainee - Frontend engineer (2019 - 2020)
 
 </br>
